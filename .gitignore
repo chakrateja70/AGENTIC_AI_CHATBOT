@@ -5,3 +5,6 @@ __pycache__/
 **/*.pyc
 *.pyc
 uv.lock
+.env
+.env.*
+!.env.example
