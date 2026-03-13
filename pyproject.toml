@@ -1,0 +1,17 @@
+[project]
+name = "agentic-ai-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "arxiv>=2.4.1",
+    "langchain>=1.2.12",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.18",
+    "langchain-groq>=1.1.2",
+    "langgraph>=1.1.2",
+    "pydantic==2.12.5",
+    "python-dotenv>=1.2.2",
+    "wikipedia>=1.4.0",
+]
