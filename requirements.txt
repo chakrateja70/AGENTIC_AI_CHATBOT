@@ -7,3 +7,4 @@ pydantic==2.12.5
 python-dotenv>=1.2.2
 arxiv>=2.4.1
 wikipedia>=1.4.0
+langchain-tavily==0.2.17
